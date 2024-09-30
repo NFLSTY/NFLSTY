@@ -11,7 +11,7 @@
 
 📫 How to reach me : naufalsatya10@gmail.com
 
-⚡ Fun fact : Sometimes I learn, and sometimes I drowned
+⚡ Fun fact : I like blue colors
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naufalsatyaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-satya-pradananto-46263b294) 
