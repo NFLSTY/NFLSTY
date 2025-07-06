@@ -9,9 +9,9 @@
 
 💬 Ask me about : Anything that I've written above
 
-📫 How to reach me : naufalsatya10@gmail.com
+📫 How to reach me : visit my Instagram or LinkedIn
 
-⚡ Fun fact : I like blue colors
+⚡ Fun fact : No fact
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naufalsatyaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-satya-pradananto-46263b294) 
