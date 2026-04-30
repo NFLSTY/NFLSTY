@@ -33,6 +33,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NFLSTY&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&text_color=a1a1aa&icon_color=00e5ff" alt="Naufal's GitHub Stats" />
-<br>
   <img src="https://streak-stats.demolab.com?user=NFLSTY&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=a1a1aa" alt="streak graph" />
 </p>
