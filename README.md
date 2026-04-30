@@ -23,10 +23,7 @@
 
 <p align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,gradle,firebase" /><br>
-      <img src="https://skillicons.dev/icons?i=laravel,alpinejs,tailwind,mysql" /><br>
-      <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,powershell,github" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,gradle,firebase,laravel,alpinejs,tailwind,mysql,python,sklearn,tensorflow,pytorch,vscode,androidstudio,powershell,github&perline=8" />
    </a>
 </p>
 
