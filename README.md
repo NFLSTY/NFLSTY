@@ -23,7 +23,7 @@
 
 <p align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,gradle,firebase,laravel,alpinejs,tailwind,mysql,python,sklearn,tensorflow,pytorch,vscode,androidstudio,powershell,github&perline=8" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,laravel,alpinejs,tailwind,mysql,python,sklearn,tensorflow,pytorch,vscode,androidstudio,powershell,github&perline=8" />
    </a>
 </p>
 
