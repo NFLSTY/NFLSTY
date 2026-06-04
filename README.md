@@ -26,11 +26,3 @@
       <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,laravel,alpinejs,tailwind,mysql,python,sklearn,tensorflow,pytorch,vscode,androidstudio,powershell,github&perline=8" />
    </a>
 </p>
-
----
-
-## 📊 Progress Check
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NFLSTY&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=a1a1aa" alt="streak graph" />
-</p>
